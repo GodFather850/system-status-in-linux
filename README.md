@@ -3,7 +3,7 @@
 # Status your system (memory, cpu, kernel version, hard space)...
 
 ---
-![bash_logo](logo.png)
+![bash_logo](bash_logo.png)
 
 ---
 # Features
@@ -51,7 +51,7 @@ Porrot OS
 
 **Input question**
 
-![input](ScreenshotFrom2026-01-0715-53-28.png)
+![input](Output_shot.png)
 
 ```markdown
 ======================Memory Status=============================
