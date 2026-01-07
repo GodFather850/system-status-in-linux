@@ -50,6 +50,7 @@ Porrot OS
 # 📷 Output preview:
 
 **Input question**
+
 ![input](Screenshot From 2026-01-07 15-53-28.png)
 
 ```markdown
