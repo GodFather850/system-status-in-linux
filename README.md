@@ -51,7 +51,7 @@ Porrot OS
 
 **Input question**
 
-![input](Screenshot From 2026-01-07 15-53-28.png)
+![input](ScreenshotFrom2026-01-0715-53-28.png)
 
 ```markdown
 ======================Memory Status=============================
