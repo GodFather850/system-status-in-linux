@@ -3,7 +3,7 @@
 # Status your system (memory, cpu, kernel version, hard space)...
 
 ---
-![bash-logo](logo.png)
+![bash_logo](logo.png)
 
 ---
 # Features
