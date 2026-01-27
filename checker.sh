@@ -104,11 +104,5 @@ case "$status_input" in
 		kernel ;;
 
     *)
-		if ! command -v notify-send <& /dev/null; then
-			clear
-		    echo -e "\e[33minstalling notf system\e[0m"
-			sudo apt install -y libnotify-bin
-			clear
-		fi
-		notify-send "Wrong input: use('memory' or 'cpu' or 'hard' or 'kernel')"
+		echo -e "Wrong input: use('\e[33mmemory\e[0m' '\e[32mcpu\e[0m' '\e[35mhard\e[0m' '\e[34mkernel\e[0m' '\e[36mall\e[0m')"
 esac
