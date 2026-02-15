@@ -105,5 +105,7 @@ case "$status_input" in
 
     *)
 		clear
-		echo -e "Wrong input: use('\e[33mmemory\e[0m' '\e[32mcpu\e[0m' '\e[35mhard\e[0m' '\e[34mkernel\e[0m' '\e[36mall\e[0m')"
+
+		echo "See you later"
+
 esac
